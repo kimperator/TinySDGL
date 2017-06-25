@@ -22,7 +22,7 @@ Mesa by Brian Paul et al.)
 the LICENCE file).
 
 - Examples that show the integration into the platform-independent 
-  libSDL (http://www.libsdl,org)
+  libSDL (http://www.libsdl.org)
 
 - Easy porting to further platforms, since all platform-specific code has 
   been moved from the core library into the examples.
